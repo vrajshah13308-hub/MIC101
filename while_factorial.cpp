@@ -12,7 +12,7 @@ int main(){
         cin >> n;
     }
     unsigned long long factorial = 1;
-    int i = 2;
+    int i = 1;
     while (i<=n){
         factorial *= i;
         i++;
